@@ -1,0 +1,22 @@
+body {
+	background-color: #f7f7f2;
+}
+
+chorva {
+	font-family: Georgia, serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+kemi {
+	font-family: Georgia, serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+hanashi {
+	font-family: Georgia, serif;
+	font-size:12px;
+	text-align: center;
+}
